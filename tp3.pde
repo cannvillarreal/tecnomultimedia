@@ -1,5 +1,5 @@
 //Trabajo práctico 3 com 3 - Villarreal Candelaria 95544/8
-//LINK YOUTUBE
+//https://youtu.be/p599DbP9hDk
 
 //variables y arreglos
 int estado = 0;
