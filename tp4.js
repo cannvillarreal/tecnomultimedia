@@ -1,3 +1,5 @@
+//trabajo práctico n4 - Villarreal Candelaria Com 3
+//link youtube: https://youtu.be/Q--IGfOS0Yk
 let estado = 0;
 let personajeX;
 let personajeY;
