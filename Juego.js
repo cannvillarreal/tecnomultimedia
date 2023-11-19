@@ -1,6 +1,3 @@
-LINK YOUTUBE
-https://youtu.be/fv-JEqSn6uU
-
 //define la clase
 class Juego { 
 //se inician las propiedades del juego
