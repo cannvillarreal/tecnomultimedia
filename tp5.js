@@ -1,3 +1,6 @@
+LINK YOUTUBE
+https://youtu.be/fv-JEqSn6uU
+
 let objJuego; //se usa para alamacenar una instancia de la clase Juego
 
 //carga de imagenes
